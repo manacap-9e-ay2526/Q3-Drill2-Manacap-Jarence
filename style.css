@@ -1,0 +1,12 @@
+.container {
+    background-color: #f8f9fa;
+    border: 3px solid gray;
+    width: 70%;
+    margin: 0px auto;
+    text-align: center;
+    padding: 10px;
+}
+
+body{
+    background-image: url("CircleArea.jpg");
+}
